@@ -1,8 +1,8 @@
-# README: Network Collapse Code Challenge
+# Network Collapse Code Task
 
 ## Overview
 
-This code challenge requires you to implement the `collapse` function, which transforms a given network structure (`input`) into a new network (`target`) by applying a set of collapse rules. The function will be tested against expected results to ensure correctness.
+This code task requires you to implement the `collapse` function, which transforms a given network structure (`input`) into a new network (`target`) by applying a set of collapse rules. The function will be tested against expected results to ensure correctness.
 
 ## Collapse Rules
 
@@ -19,6 +19,7 @@ When collapsing the network, the following rules must be applied:
 ### Input
 
 ![Input](./imgs/input.png)
+_Gray vertices are considered virtual_
 
 ### Expecgted Output
 
