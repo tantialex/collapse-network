@@ -13,8 +13,6 @@ const { expect } = require("./comparator");
  *  4) A vertex's name is the collapsed vertices names concatenated and sorted in ascending order.
  *      Example: A vertex of collapsed vertices J, H and E is named EHJ
  */
-const hashes = {};
-const groupIndex = {};
 function collapse(id, network, target) {
   // TODO
 }
